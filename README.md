@@ -20,7 +20,7 @@ The product team redesigned the website's checkout page (Variant B) to reduce fr
 * **Variant B (New Design):** 13.1% Conversion Rate
 * **Statistical Significance:** The Z-test returned a **p-value of 0.0301**. Since $p < 0.05$, we reject the null hypothesis. 
 
-![AB Test Bar Chart](https://github.com/pnistha11/A-B-Testing/blob/main/Figure_1.png) *(Note: Upload your bar chart image to GitHub and replace this link)*
+![AB Test Bar Chart](https://github.com/pnistha11/A-B-Testing/blob/main/Figure_1.png)
 
 ## Business Recommendation
 The new design (Variant B) resulted in a **31% relative lift** in the conversion rate (from 10.0% to 13.1%). Because these results are statistically significant, I recommend **launching Variant B to 100% of website traffic**. 
